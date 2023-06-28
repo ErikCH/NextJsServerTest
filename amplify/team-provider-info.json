@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjsservertest-dev-234017-authRole",
+      "UnauthRoleArn": "arn:aws:iam::127847013811:role/amplify-nextjsservertest-dev-234017-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::127847013811:role/amplify-nextjsservertest-dev-234017-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nextjsservertest-dev-234017-deployment",
+      "UnauthRoleName": "amplify-nextjsservertest-dev-234017-unauthRole",
+      "StackName": "amplify-nextjsservertest-dev-234017",
+      "StackId": "arn:aws:cloudformation:us-east-2:127847013811:stack/amplify-nextjsservertest-dev-234017/a7ac17c0-157e-11ee-8e79-0a6e9d2972b1",
+      "AmplifyAppId": "d1e8mnvbljb320"
+    },
+    "categories": {
+      "auth": {
+        "nextjsservertest1baed80c": {}
+      },
+      "predictions": {
+        "speechGeneratoraed6a8bc": {}
+      }
+    }
+  }
+}
